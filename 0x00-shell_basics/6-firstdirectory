@@ -1,6 +1,2 @@
 #!/bin/bash
-cd /tmp
-mkdir My_first_directory
-cd My_first_directory
-pwd
-/tmp/My_first_directory
+touch My_first_directory
