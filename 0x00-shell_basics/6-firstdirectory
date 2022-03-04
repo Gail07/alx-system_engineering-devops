@@ -1,2 +1,6 @@
 #!/bin/bash
-mkdir
+mkdir /tmp
+cd /tmp
+pwd
+touch My_first_directory
+ls
