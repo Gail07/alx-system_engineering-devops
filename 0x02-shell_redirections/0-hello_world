@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, world" | tail -1
+echo "Hello, world"
